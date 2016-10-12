@@ -75,7 +75,7 @@
     "temp": "^0.8.3",
     "webpack": "^2.1.0-beta.25"
   },
-  "repository": "yarnpkg/yarn",
+  "repository": "cyarnpkg/cyarn",
   "bin": {
     "yarn": "./bin/yarn.js"
   },
