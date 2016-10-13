@@ -12,7 +12,8 @@ export const DEPENDENCY_TYPES = [
   'peerDependencies',
 ];
 
-export const YARN_REGISTRY = 'https://registry.yarnpkg.com';
+// export const YARN_REGISTRY = 'https://registry.yarnpkg.com';
+export const YARN_REGISTRY = 'https://registry.npm.taobao.org';
 
 // lockfile version, bump whenever we make backwards incompatible changes
 export const LOCKFILE_VERSION = 1;
